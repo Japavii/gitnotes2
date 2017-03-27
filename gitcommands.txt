@@ -1,0 +1,3 @@
+git init
+git add file.name or --all
+git commit -m(for a message) "whatever the message" (use the quotes)
